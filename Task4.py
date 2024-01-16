@@ -27,5 +27,5 @@ class Task4:
 
 
 
-Task4Calc=Task4(10)
+Task4Calc=Task4(50)
 Task4Calc.getSection()
